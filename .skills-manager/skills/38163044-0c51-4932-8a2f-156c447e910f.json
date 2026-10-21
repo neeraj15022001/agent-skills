@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "38163044-0c51-4932-8a2f-156c447e910f",
+  "path": "apple-design",
+  "path_key": "apple-design",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/dickwu/apple-design-skill",
+    "subpath": null,
+    "branch": null
+  }
+}

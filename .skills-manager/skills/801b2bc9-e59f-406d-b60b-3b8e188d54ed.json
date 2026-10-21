@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "801b2bc9-e59f-406d-b60b-3b8e188d54ed",
+  "path": "vercel-react-best-practices",
+  "path_key": "vercel-react-best-practices",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "vercel-labs/agent-skills/vercel-react-best-practices",
+    "subpath": "skills/react-best-practices",
+    "branch": null
+  }
+}
