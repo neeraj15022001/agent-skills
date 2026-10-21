@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7907b1b5-02d2-4188-8083-d159864202bb",
+  "path": "job-search",
+  "path_key": "job-search",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5443762d-f5d9-42b7-a731-d646a33e5ec3",
+  "path": "tech-resume-optimizer",
+  "path_key": "tech-resume-optimizer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ec62811a-1710-45f1-9a2d-356e5ef45301",
+  "path": "offer-comparison-analyzer",
+  "path_key": "offer-comparison-analyzer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

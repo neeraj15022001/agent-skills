@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "253e2d0b-568c-4f17-9e27-7fab062cfce6",
+  "path": "application-form-filler",
+  "path_key": "application-form-filler",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

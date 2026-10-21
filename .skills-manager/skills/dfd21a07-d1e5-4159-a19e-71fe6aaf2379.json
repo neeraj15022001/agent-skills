@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "dfd21a07-d1e5-4159-a19e-71fe6aaf2379",
+  "path": "executive-resume-writer",
+  "path_key": "executive-resume-writer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

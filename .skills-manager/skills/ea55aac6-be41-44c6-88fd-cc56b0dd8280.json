@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ea55aac6-be41-44c6-88fd-cc56b0dd8280",
+  "path": "pr-review-expert",
+  "path_key": "pr-review-expert",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

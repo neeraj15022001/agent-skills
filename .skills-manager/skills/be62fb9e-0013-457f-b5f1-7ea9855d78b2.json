@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "be62fb9e-0013-457f-b5f1-7ea9855d78b2",
+  "path": "creative-portfolio-resume",
+  "path_key": "creative-portfolio-resume",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

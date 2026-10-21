@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "666c3f35-3023-4d09-855c-a576eb412be4",
+  "path": "cold-email-writer",
+  "path_key": "cold-email-writer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

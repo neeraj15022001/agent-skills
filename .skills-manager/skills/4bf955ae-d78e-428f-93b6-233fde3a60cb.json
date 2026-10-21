@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4bf955ae-d78e-428f-93b6-233fde3a60cb",
+  "path": "interview-prep-generator",
+  "path_key": "interview-prep-generator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

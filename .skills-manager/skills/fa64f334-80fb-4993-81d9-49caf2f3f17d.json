@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fa64f334-80fb-4993-81d9-49caf2f3f17d",
+  "path": "youtube-video-package",
+  "path_key": "youtube-video-package",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

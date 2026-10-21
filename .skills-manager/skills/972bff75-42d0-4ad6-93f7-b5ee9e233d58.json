@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "972bff75-42d0-4ad6-93f7-b5ee9e233d58",
+  "path": "resume-ats-optimizer",
+  "path_key": "resume-ats-optimizer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

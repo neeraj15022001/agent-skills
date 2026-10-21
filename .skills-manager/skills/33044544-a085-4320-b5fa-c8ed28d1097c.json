@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "33044544-a085-4320-b5fa-c8ed28d1097c",
+  "path": "resume-quantifier",
+  "path_key": "resume-quantifier",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

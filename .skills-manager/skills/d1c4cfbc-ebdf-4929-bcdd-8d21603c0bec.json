@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d1c4cfbc-ebdf-4929-bcdd-8d21603c0bec",
+  "path": "automating-pages",
+  "path_key": "automating-pages",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

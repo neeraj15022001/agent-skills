@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a1cefe10-14fd-46db-905f-f6f17301150e",
+  "path": "reference-list-builder",
+  "path_key": "reference-list-builder",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

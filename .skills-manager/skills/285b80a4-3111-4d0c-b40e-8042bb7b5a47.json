@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "285b80a4-3111-4d0c-b40e-8042bb7b5a47",
+  "path": "career-changer-translator",
+  "path_key": "career-changer-translator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

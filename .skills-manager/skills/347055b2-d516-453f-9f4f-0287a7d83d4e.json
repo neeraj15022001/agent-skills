@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "347055b2-d516-453f-9f4f-0287a7d83d4e",
+  "path": "caveman-compress",
+  "path_key": "caveman-compress",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

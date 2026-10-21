@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "60b42685-5e35-40f0-a0a5-d16afac466af",
+  "path": "resume-version-manager",
+  "path_key": "resume-version-manager",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

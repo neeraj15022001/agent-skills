@@ -1,0 +1,3 @@
+interface:
+  display_name: "Memory Bank"
+  short_description: "Maintain project context across agents and sessions"

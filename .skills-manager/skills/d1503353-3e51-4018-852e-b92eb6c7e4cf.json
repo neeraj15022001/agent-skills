@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d1503353-3e51-4018-852e-b92eb6c7e4cf",
+  "path": "resume-tailor",
+  "path_key": "resume-tailor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

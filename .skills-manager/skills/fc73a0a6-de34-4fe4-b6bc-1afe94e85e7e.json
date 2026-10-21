@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fc73a0a6-de34-4fe4-b6bc-1afe94e85e7e",
+  "path": "salary-negotiation-prep",
+  "path_key": "salary-negotiation-prep",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

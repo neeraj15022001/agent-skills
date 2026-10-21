@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "07157faa-54ff-4020-afd4-f4eca4f1ce45",
+  "path": "verify-and-stop",
+  "path_key": "verify-and-stop",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

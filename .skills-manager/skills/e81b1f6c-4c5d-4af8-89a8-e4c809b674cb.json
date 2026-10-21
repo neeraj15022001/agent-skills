@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e81b1f6c-4c5d-4af8-89a8-e4c809b674cb",
+  "path": "network-scan",
+  "path_key": "network-scan",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

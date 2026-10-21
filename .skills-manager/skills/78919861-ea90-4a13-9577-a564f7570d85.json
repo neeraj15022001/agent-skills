@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "78919861-ea90-4a13-9577-a564f7570d85",
+  "path": "resume-formatter",
+  "path_key": "resume-formatter",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

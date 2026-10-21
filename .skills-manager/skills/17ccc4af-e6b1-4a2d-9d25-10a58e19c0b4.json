@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "17ccc4af-e6b1-4a2d-9d25-10a58e19c0b4",
+  "path": "resume-section-builder",
+  "path_key": "resume-section-builder",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

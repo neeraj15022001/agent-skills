@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f5421301-a934-4d18-be05-e00e83e150ea",
+  "path": "multi-agent-progress-log",
+  "path_key": "multi-agent-progress-log",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
