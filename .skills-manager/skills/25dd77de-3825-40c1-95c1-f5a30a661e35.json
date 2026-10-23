@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "25dd77de-3825-40c1-95c1-f5a30a661e35",
+  "path": "understand-domain",
+  "path_key": "understand-domain",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "git@github.com:Egonex-AI/Understand-Anything.git",
+    "subpath": "understand-anything-plugin/skills/understand-domain",
+    "branch": null
+  }
+}

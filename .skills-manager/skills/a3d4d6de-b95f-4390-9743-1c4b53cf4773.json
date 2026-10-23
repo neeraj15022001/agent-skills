@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a3d4d6de-b95f-4390-9743-1c4b53cf4773",
+  "path": "understand-figma",
+  "path_key": "understand-figma",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "git@github.com:Egonex-AI/Understand-Anything.git",
+    "subpath": "understand-anything-plugin/skills/understand-figma",
+    "branch": null
+  }
+}

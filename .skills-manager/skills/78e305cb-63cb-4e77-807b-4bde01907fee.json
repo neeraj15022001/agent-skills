@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "78e305cb-63cb-4e77-807b-4bde01907fee",
+  "path": "understand-explain",
+  "path_key": "understand-explain",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "git@github.com:Egonex-AI/Understand-Anything.git",
+    "subpath": "understand-anything-plugin/skills/understand-explain",
+    "branch": null
+  }
+}
